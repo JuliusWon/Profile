@@ -9,9 +9,9 @@ body {
 	border-radius: 40px;
 	background-image: url("MobiusTime.png") ;
 	background-repeat:no-repeat;
-	background-origin: middle;
 	height: 300px;
 	width: 300px;
+	background-origin: center;
 	text-align: center;
 	color: black;
 	font-size: 300%;
@@ -102,6 +102,6 @@ body {
 	border-color: red;
 	border-width: 5px;
 	color: red;
-	background-color: black;
+	background-color: blue;
 }
 

@@ -1,0 +1,107 @@
+body {
+	background-image: url('Background.png');
+	background-repeat: repeat;
+	background-size: normal;
+	text-align: center;
+}
+.buttonGames {
+	border-width: 10px;
+	border-radius: 40px;
+	background-image: url("MobiusTime.png") ;
+	background-repeat:no-repeat;
+	background-origin: middle;
+	height: 300px;
+	width: 300px;
+	text-align: center;
+	color: black;
+	font-size: 300%;
+	font-family: iosevka;
+}
+.buttonGithub {
+	color: black;
+	font-weight: 5000;
+	border-color: black;
+	border-width:10px;
+	border-radius: 40px;
+	background-image: url("GitHub.png") ;
+	background-repeat:no-repeat;
+	background-origin: center;
+	height: 310px;
+	width: 337px;
+	background-position:5px 2px;
+	text-align: center;
+	text-indent: 42px;
+	color: black;
+	font-size: 300%;
+	font-family: iosevka;
+	padding-right: 3%;
+}
+.buttonGithub:hover {
+	border-color: orange;
+	border-width: 5px;
+	color: orange;
+	background-color: black;
+}
+.buttonGames:hover{
+	border-color: green;
+	border-width: 5px;
+	color: green;
+}
+.Heading {
+	font-size: 300%;
+	font-family: iosevka;
+	color: darkcyan;
+}
+.buttonYouTube{
+	border-color: black;
+	border-width:10px;
+	border-radius: 40px;
+	background-image: url("YouTube.png") ;
+	background-repeat:no-repeat;
+	background-origin: center;
+	height: 310px;
+	width: 337px;
+	background-size: 150%;
+	background-position: center;
+	text-align: center;
+	text-indent: 42px;
+	color: black;
+	font-weight: 5000;
+	font-size: 300%;
+	font-family: iosevka;
+	padding-right: 3%;
+}
+.buttonYouTube:hover {
+	border-color: red;
+	border-width: 5px;
+	color: red;
+	font-size: 300%;
+	background-color: black;
+}
+.buttonSideQuest{
+	font-weight: 5000;
+	border-color: black;
+	border-width:10px;
+	border-radius: 40px;
+	background-image: url("0.jpg") ;
+	background-repeat:no-repeat;
+	background-origin: center;
+	height: 310px;
+	width: 337px;
+	background-size: 150%;
+	background-position: center;
+	text-align: center;
+	text-indent: 42px;
+	color: darkred;
+	font-weight: 50000;
+	font-size: 300%;
+	font-family: iosevka;
+	padding-right: 3%;
+}
+.buttonSideQuest:hover {
+	border-color: red;
+	border-width: 5px;
+	color: red;
+	background-color: black;
+}
+
